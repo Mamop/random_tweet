@@ -1,0 +1,2 @@
+# random_tweet
+STATUS_DATEの配列に入れた文章をランダムで選んでつぶやきます。
