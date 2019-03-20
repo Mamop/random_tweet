@@ -14,8 +14,8 @@ api=tweepy.API(auth)
 abc=os.environ.get("text1")
 bcd=os.environ.get("text2")
 cde=os.environ.get("text3")
-def=os.environ.get("text4")
+de=os.environ.get("text4")
 
 STATUS_DATA=[abc,bcd,
-             cde,def]
+             cde,de]
 api.update_status(random.choice(STATUS_DATA))
